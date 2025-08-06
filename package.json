@@ -1,6 +1,7 @@
 {
   "name": "@vike/biome-config",
   "type": "module",
+  "private": false,
   "version": "2.0.0",
   "description": "An opinionated Biome config to used accross Vike projects.",
   "repository": "github:vikejs/biome-config",
