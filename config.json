@@ -13,7 +13,6 @@
   },
   "javascript": {
     "formatter": {
-      "semicolons": "always",
       "lineWidth": 120
     }
   },
