@@ -5,6 +5,7 @@
   "description": "An opinionated Biome config to used accross Vike projects.",
   "repository": "github:vikejs/biome-config",
   "scripts": {
+    "build": "exit 0",
     "release": "LANG=en_US release-me patch",
     "release:minor": "LANG=en_US release-me minor",
     "release:commit": "LANG=en_US release-me commit"
