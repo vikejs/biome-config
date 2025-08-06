@@ -1,0 +1,29 @@
+{
+  "name": "@vike/biome-config",
+  "type": "module",
+  "version": "2.0.0",
+  "description": "An opinionated Biome config to used accross Vike projects.",
+  "repository": "github:vikejs/biome-config",
+  "scripts": {
+    "release": "LANG=en_US release-me patch",
+    "release:minor": "LANG=en_US release-me minor",
+    "release:commit": "LANG=en_US release-me commit"
+  },
+  "keywords": [
+    "biome"
+  ],
+  "author": "Joël Charles <joel.charles91@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@biomejs/biome": "^2.1.3",
+    "@brillout/release-me": "^0.4.8"
+  },
+  "exports": {
+    ".": "./config.json",
+    "./config.json": "./config.json"
+  },
+  "files": [
+    "config.json"
+  ]
+}
