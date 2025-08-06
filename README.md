@@ -9,7 +9,7 @@ pnpm add -D @biomejs/biome @vike/biome-config
 ```json
 {
   "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
-  "extends": "./node_modules/@vikejs/biome-config/config.json"
+  "extends": ["./node_modules/@vikejs/biome-config/config.json"]
 }
 ```
 
