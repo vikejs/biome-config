@@ -3,7 +3,7 @@
   "type": "module",
   "private": false,
   "version": "2.0.0",
-  "description": "An opinionated Biome config to used accross Vike projects.",
+  "description": "An opinionated Biome config to use accross Vike projects.",
   "repository": "github:vikejs/biome-config",
   "scripts": {
     "build": "exit 0",
