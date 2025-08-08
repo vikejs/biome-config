@@ -1,7 +1,7 @@
 ## Install
 
 ```shell
-pnpm add -D @biomejs/biome @vike/biome-config
+pnpm add -D @biomejs/biome @vikejs/biome-config
 ```
 
 ## Create biome config
